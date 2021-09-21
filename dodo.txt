@@ -5,6 +5,4 @@ git config --global user.name "Tiansuy"
 
 gogo
 
-gogo
-
 git fetch --all && git reset --hard origin/master && git pull
